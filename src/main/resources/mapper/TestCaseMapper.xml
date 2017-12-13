@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+
+
+<mapper namespace="com.juphoon.rcsrunner.mapper.TestCaseMapper" >
+    <resultMap id="testCase" type="com.juphoon.rcsrunner.entity.TestCase">
+        <result column="Id" property="id"></result>
+        <result column="用例编号" property="caseId"></result>
+        <result column="用例名称" property="caseName"></result>
+        <result column="业务类型" property="workType"></result>
+        <result column="业务场景" property="workScene"></result>
+        <result column="版本号" property="versionCode"></result>
+        <result column="技术类型" property="technologyType"></result>
+        <result column="协议模拟" property="protocolSimulate"></result>
+        <result column="相关用例编号" property="involvecCaseId"></result>
+        <result column="创建时间" property="createTime"></result>
+        <result column="测试目的" property="purpose"></result>
+        <result column="测试依据" property="gist"></result>
+        <result column="预置条件" property="condition"></result>
+        <result column="测试步骤" property="step"></result>
+        <result column="检查点说明" property="inspectExplain"></result>
+        <result column="参考流程" property="refreProcess"></result>
+        <result column="UP用例编号" property="UPcaseId"></result>
+        <result column="用例类型" property="caseType"></result>
+        <result column="预期结果" property="expectResult"></result>
+        <result column="汇集步骤" property="collectStep"></result>
+        <result column="模拟服务器支持" property="serverSupport"></result>
+        <result column="拆分标志" property="splitFlag"></result>
+        <result column="被拆分UP用例编号" property="splitUPCaseId"></result>
+        <result column="协议名称" property="protocolName"></result>
+        <result column="启动标志" property="usingFlag"></result>
+        <result column="备注" property="comment"></result>
+    </resultMap>
+
+
+    <select id="findAll" resultMap="testCase">
+      SELECT 用例编号 FROM 业务_测试用例表
+    </select>
+</mapper>

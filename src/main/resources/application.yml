@@ -1,0 +1,41 @@
+logging:
+  level:
+    root: INFO
+    com.hgh.run: DEBUG
+  config: classpath:logging-config.xml
+
+spring:
+  datasource:
+    name: seimi
+    type: com.alibaba.druid.pool.DruidDataSource
+    url : jdbc:mysql://localhost:3306/ronghetongxin?characterEncoding=utf8&useUnicode=true
+    username: root
+    password: 123456
+    driver-class-name: com.mysql.jdbc.Driver
+    filters: stat,wall,log4j
+    maxActive: 50
+    initialSize: 1
+    maxWait: 60000
+    minIdle: 1
+    timeBetweenEvictionRunsMillis: 60000
+    minEvictableIdleTimeMillis: 300000
+    validationQuery: select 'x'
+    testWhileIdle: true
+    testOnBorrow: false
+    testOnReturn: false
+    poolPreparedStatements: true
+    maxOpenPreparedStatements: 20
+  redis:
+    host: 192.168.6.128
+    password:
+    port: 6379
+    pool:
+      max-active: 20
+      max-idle: 10
+      min-idle: 0
+      max-wait: -1
+    timeout: 20000
+
+mybatis:
+  type-aliases-package: com.juphoon.rcsrunner.entity
+  mapper-locations: classpath:mapper/*Mapper.xml

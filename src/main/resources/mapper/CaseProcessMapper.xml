@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+
+
+<mapper namespace="com.juphoon.rcsrunner.mapper.CaseProcessMapper" >
+
+
+    <resultMap id="caseProcess" type="com.juphoon.rcsrunner.entity.CaseProcess">
+        <result column="Id" property="id"></result>
+        <result column="用例编号" property="caseId"></result>
+        <result column="信令编号" property="signalId"></result>
+        <result column="信令名称" property="signalName"></result>
+        <result column="是否必查" property="checked"></result>
+        <result column="角色" property="role"></result>
+        <result column="顺序号" property="sequenceNumber"></result>
+        <result column="段号" property="segmentNumber"></result>
+        <result column="段类别" property="segmentType"></result>
+        <result column="协议名称" property="protocolName"></result>
+        <result column="协议方法" property="protocolMethod"></result>
+        <result column="业务类别" property="workType"></result>
+        <result column="消息回执组号" property="msgRespNumber"></result>
+        <result column="业务场景" property="workScene"></result>
+        <result column="方向" property="orientation"></result>
+        <result column="是否协商" property="discuss"></result>
+        <result column="备注" property="comment"></result>
+    </resultMap>
+
+
+    <select id="findAll" resultMap="caseProcess">
+      SELECT * FROM 业务_用例业务流程表
+    </select>
+    
+    <select id="findByCaseId" parameterType="java.util.Map" resultMap="caseProcess">
+         SELECT * FROM 业务_用例业务流程表 WHERE 用例编号 = #{caseId} order by Id ASC
+    </select>
+
+</mapper>

@@ -1,0 +1,4 @@
+1513073477302: ServerEngine: Domains=
+1513073477319: SBC: Available media ports: [41000:41198] (100)
+1513073528394: AddressResolver: add BINDING 172.17.100.15:46605 >> 192.168.10.135:62538
+1513073528429: Registrar: registration of user 15999@192.168.15.178 updated

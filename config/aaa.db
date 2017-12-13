@@ -1,0 +1,8 @@
+user= alice@127.0.0.2
+passwd= pippo
+user= bob@127.0.0.2
+key= cGlwcG8=
+user= 12@192.168.1.105
+passwd= 12
+user= 11@192.168.1.105
+passwd= 11

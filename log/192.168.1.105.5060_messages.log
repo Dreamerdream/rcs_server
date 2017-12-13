@@ -1,0 +1,892 @@
+1513089256001: 22:34:16.001 Tue 12 Dec 2017, 192.168.1.105:57422/udp (470 bytes) sent
+SIP/2.0 200 OK
+Via: SIP/2.0/UDP 172.17.100.15:45885;branch=z9hG4bKKx421jczBIGJGzCTC7ktcVeC8N;received=192.168.1.105;rport=57422
+To: <sip:15888@192.168.1.105>
+From: <sip:15888@192.168.1.105>;tag=w421_qq3c0JGzCTC7ktcVeC8NK
+Call-ID: 421iczBIGJGzCTC7ktcVeC8NKv@0.0.0.0
+CSeq: 1 REGISTER
+Server: mjsip 1.7
+Contact: <sip:15888@172.17.100.15:45885;transport=udp>;+sip.instance="<urn:uuid:467c4c72-c16f-1035-a16c-1f84f38bd1d6>";reg-id=4;expires=3600
+Content-Length: 0
+
+-----End-of-message-----
+
+1513089257900: 22:34:17.900 Tue 12 Dec 2017, 192.168.1.105:57421/udp (470 bytes) sent
+SIP/2.0 200 OK
+Via: SIP/2.0/UDP 172.17.100.15:47354;branch=z9hG4bKsscw8JvcVep0O+k421xs0N22J8;received=192.168.1.105;rport=57421
+To: <sip:15999@192.168.1.105>
+From: <sip:15999@192.168.1.105>;tag=scw8JvcVep0O+j421fc9_scJ8s
+Call-ID: cw8JvcVep0O+i421us0N22J8ss@0.0.0.0
+CSeq: 1 REGISTER
+Server: mjsip 1.7
+Contact: <sip:15999@172.17.100.15:47354;transport=udp>;+sip.instance="<urn:uuid:5c8af49a-c16f-1035-80e7-5de4e5982f12>";reg-id=4;expires=3600
+Content-Length: 0
+
+-----End-of-message-----
+
+1513089294594: 22:34:54.594 Tue 12 Dec 2017, 172.17.100.15:49204/udp (1083 bytes) sent
+MESSAGE sip:15999@172.17.100.15:49204;transport=udp SIP/2.0
+Via: SIP/2.0/UDP 172.17.100.15:45885;branch=z9hG4bKHcVeFUL*E421yjqhsIImxB0t5K
+From: <sip:15888@192.168.1.105>;tag=F+glEHN_TZfaVU1Q
+To: <sip:15999@192.168.1.105>
+P-Preferred-Identity: <sip:15888@192.168.1.105>
+Contact: <sip:15888@172.17.100.15:45885>;+sip.instance="<urn:uuid:467c4c72-c16f-1035-a16c-1f84f38bd1d6>";reg-id=4;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Accept-Contact: *;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Conversation-ID: 8a1fd86a-c177-1035-967a-09f5f0807220
+Contribution-ID: 8a1fdb84-c177-1035-9b49-d5ed655fa3c6
+CSeq: 1 MESSAGE
+Max-Forwards: 69
+User-Agent: www.rcsrunner.com
+Call-ID: SPi*{wAG8}%uLl]s@www.rcsrunner.com
+Content-Type: message/cpim
+Content-Length: 314
+
+To: <sip:anonymous@anonymous.invalid>
+NS: imdn<urn:ietf:params:imdn>
+imdn.Message-ID: 8a1fb4a7-c177-1035-999a-497fcb2ca918
+Date: Tue, 12 Dec 2017 22:34:54 GMT
+
+Content-Transfer-Encoding: base64
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 8
+
+QVNEU0FE-----End-of-message-----
+
+1513089294598: 22:34:54.598 Tue 12 Dec 2017, 192.168.1.105:57421/udp (1083 bytes) sent
+MESSAGE sip:15999@172.17.100.15:47354;transport=udp SIP/2.0
+Via: SIP/2.0/UDP 172.17.100.15:45885;branch=z9hG4bKHcVeFUL*E421yjqhsIImxB0t5K
+From: <sip:15888@192.168.1.105>;tag=j_dKz5f]X1<vlgb7
+To: <sip:15999@192.168.1.105>
+P-Preferred-Identity: <sip:15888@192.168.1.105>
+Contact: <sip:15888@172.17.100.15:45885>;+sip.instance="<urn:uuid:467c4c72-c16f-1035-a16c-1f84f38bd1d6>";reg-id=4;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Accept-Contact: *;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Conversation-ID: 8a1fd86a-c177-1035-967a-09f5f0807220
+Contribution-ID: 8a1fdb84-c177-1035-9b49-d5ed655fa3c6
+CSeq: 1 MESSAGE
+Max-Forwards: 69
+User-Agent: www.rcsrunner.com
+Call-ID: YN+ncWLeM7_kHFz4@www.rcsrunner.com
+Content-Type: message/cpim
+Content-Length: 314
+
+To: <sip:anonymous@anonymous.invalid>
+NS: imdn<urn:ietf:params:imdn>
+imdn.Message-ID: 8a1fb4a7-c177-1035-999a-497fcb2ca918
+Date: Tue, 12 Dec 2017 22:34:54 GMT
+
+Content-Transfer-Encoding: base64
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 8
+
+QVNEU0FE-----End-of-message-----
+
+1513089406357: 22:36:46.356 Tue 12 Dec 2017, 192.168.1.105:57422/udp (405 bytes) sent
+SIP/2.0 202 Accepted
+Via: SIP/2.0/UDP 172.17.100.15:45885;branch=z9hG4bKHcVeFUL*E421yjqhsIImxB0t5K;rport=57422;received=192.168.1.105
+To: <sip:15999@192.168.1.105>;tag=Wk)[tpe4L!z]2O+Z
+From: <sip:15888@192.168.1.105>;tag=cVeFUL*D421iczBIIImxB0t5KH
+Call-ID: VeFUL*C421BjqhsIImxB0t5KHc@172.17.100.15
+CSeq: 1 MESSAGE
+Server: www.rcsrunner.com
+Date: Tue, 12 Dec 2017 22:35:16 GMT
+Content-Length: 0
+
+-----End-of-message-----
+
+1513089451740: 22:37:31.740 Tue 12 Dec 2017, 172.17.100.15:49204/udp (1083 bytes) sent
+MESSAGE sip:15999@172.17.100.15:49204;transport=udp SIP/2.0
+Via: SIP/2.0/UDP 172.17.100.15:45885;branch=z9hG4bKHcVeFUL*E421yjqhsIImxB0t5K
+From: <sip:15888@192.168.1.105>;tag=~O9Fch-L5C<b]zDg
+To: <sip:15999@192.168.1.105>
+P-Preferred-Identity: <sip:15888@192.168.1.105>
+Contact: <sip:15888@172.17.100.15:45885>;+sip.instance="<urn:uuid:467c4c72-c16f-1035-a16c-1f84f38bd1d6>";reg-id=4;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Accept-Contact: *;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Conversation-ID: 8a1fd86a-c177-1035-967a-09f5f0807220
+Contribution-ID: 8a1fdb84-c177-1035-9b49-d5ed655fa3c6
+CSeq: 1 MESSAGE
+Max-Forwards: 69
+User-Agent: www.rcsrunner.com
+Call-ID: <cU!r4qDPwMv8ZK.@www.rcsrunner.com
+Content-Type: message/cpim
+Content-Length: 314
+
+To: <sip:anonymous@anonymous.invalid>
+NS: imdn<urn:ietf:params:imdn>
+imdn.Message-ID: 8a1fb4a7-c177-1035-999a-497fcb2ca918
+Date: Tue, 12 Dec 2017 22:37:31 GMT
+
+Content-Transfer-Encoding: base64
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 8
+
+QVNEU0FE-----End-of-message-----
+
+1513089451748: 22:37:31.746 Tue 12 Dec 2017, 192.168.1.105:57421/udp (1083 bytes) sent
+MESSAGE sip:15999@172.17.100.15:47354;transport=udp SIP/2.0
+Via: SIP/2.0/UDP 172.17.100.15:45885;branch=z9hG4bKHcVeFUL*E421yjqhsIImxB0t5K
+From: <sip:15888@192.168.1.105>;tag=AK*W-vI8Pj(lH4aY
+To: <sip:15999@192.168.1.105>
+P-Preferred-Identity: <sip:15888@192.168.1.105>
+Contact: <sip:15888@172.17.100.15:45885>;+sip.instance="<urn:uuid:467c4c72-c16f-1035-a16c-1f84f38bd1d6>";reg-id=4;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Accept-Contact: *;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Conversation-ID: 8a1fd86a-c177-1035-967a-09f5f0807220
+Contribution-ID: 8a1fdb84-c177-1035-9b49-d5ed655fa3c6
+CSeq: 1 MESSAGE
+Max-Forwards: 69
+User-Agent: www.rcsrunner.com
+Call-ID: hxt+79E5T24rHRvn@www.rcsrunner.com
+Content-Type: message/cpim
+Content-Length: 314
+
+To: <sip:anonymous@anonymous.invalid>
+NS: imdn<urn:ietf:params:imdn>
+imdn.Message-ID: 8a1fb4a7-c177-1035-999a-497fcb2ca918
+Date: Tue, 12 Dec 2017 22:37:31 GMT
+
+Content-Transfer-Encoding: base64
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 8
+
+QVNEU0FE-----End-of-message-----
+
+1513089451780: 22:37:31.780 Tue 12 Dec 2017, 172.17.100.15:49204/udp (1083 bytes) sent
+MESSAGE sip:15999@172.17.100.15:49204;transport=udp SIP/2.0
+Via: SIP/2.0/UDP 172.17.100.15:45885;branch=z9hG4bKHcVeFUL*E421yjqhsIImxB0t5K
+From: <sip:15888@192.168.1.105>;tag=ODLV]W_uyvP<X%f~
+To: <sip:15999@192.168.1.105>
+P-Preferred-Identity: <sip:15888@192.168.1.105>
+Contact: <sip:15888@172.17.100.15:45885>;+sip.instance="<urn:uuid:467c4c72-c16f-1035-a16c-1f84f38bd1d6>";reg-id=4;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Accept-Contact: *;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Conversation-ID: 8a1fd86a-c177-1035-967a-09f5f0807220
+Contribution-ID: 8a1fdb84-c177-1035-9b49-d5ed655fa3c6
+CSeq: 1 MESSAGE
+Max-Forwards: 69
+User-Agent: www.rcsrunner.com
+Call-ID: lXzS_ar}L9<hsKyA@www.rcsrunner.com
+Content-Type: message/cpim
+Content-Length: 314
+
+To: <sip:anonymous@anonymous.invalid>
+NS: imdn<urn:ietf:params:imdn>
+imdn.Message-ID: 8a1fb4a7-c177-1035-999a-497fcb2ca918
+Date: Tue, 12 Dec 2017 22:37:31 GMT
+
+Content-Transfer-Encoding: base64
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 8
+
+QVNEU0FE-----End-of-message-----
+
+1513089451783: 22:37:31.783 Tue 12 Dec 2017, 192.168.1.105:57421/udp (1083 bytes) sent
+MESSAGE sip:15999@172.17.100.15:47354;transport=udp SIP/2.0
+Via: SIP/2.0/UDP 172.17.100.15:45885;branch=z9hG4bKHcVeFUL*E421yjqhsIImxB0t5K
+From: <sip:15888@192.168.1.105>;tag=y!rbvTSAhmCkwK5]
+To: <sip:15999@192.168.1.105>
+P-Preferred-Identity: <sip:15888@192.168.1.105>
+Contact: <sip:15888@172.17.100.15:45885>;+sip.instance="<urn:uuid:467c4c72-c16f-1035-a16c-1f84f38bd1d6>";reg-id=4;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Accept-Contact: *;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Conversation-ID: 8a1fd86a-c177-1035-967a-09f5f0807220
+Contribution-ID: 8a1fdb84-c177-1035-9b49-d5ed655fa3c6
+CSeq: 1 MESSAGE
+Max-Forwards: 69
+User-Agent: www.rcsrunner.com
+Call-ID: F7%UNpA2g]5<KnB9@www.rcsrunner.com
+Content-Type: message/cpim
+Content-Length: 314
+
+To: <sip:anonymous@anonymous.invalid>
+NS: imdn<urn:ietf:params:imdn>
+imdn.Message-ID: 8a1fb4a7-c177-1035-999a-497fcb2ca918
+Date: Tue, 12 Dec 2017 22:37:31 GMT
+
+Content-Transfer-Encoding: base64
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 8
+
+QVNEU0FE-----End-of-message-----
+
+1513089451786: 22:37:31.786 Tue 12 Dec 2017, 192.168.1.105:57422/udp (405 bytes) sent
+SIP/2.0 202 Accepted
+Via: SIP/2.0/UDP 172.17.100.15:45885;branch=z9hG4bKHcVeFUL*E421yjqhsIImxB0t5K;rport=57422;received=192.168.1.105
+To: <sip:15999@192.168.1.105>;tag=ei8)dCZpWoDR>G-L
+From: <sip:15888@192.168.1.105>;tag=cVeFUL*D421iczBIIImxB0t5KH
+Call-ID: VeFUL*C421BjqhsIImxB0t5KHc@172.17.100.15
+CSeq: 1 MESSAGE
+Server: www.rcsrunner.com
+Date: Tue, 12 Dec 2017 22:37:31 GMT
+Content-Length: 0
+
+-----End-of-message-----
+
+1513089451797: 22:37:31.797 Tue 12 Dec 2017, 172.17.100.15:49204/udp (1083 bytes) sent
+MESSAGE sip:15999@172.17.100.15:49204;transport=udp SIP/2.0
+Via: SIP/2.0/UDP 172.17.100.15:45885;branch=z9hG4bKHcVeFUL*E421yjqhsIImxB0t5K
+From: <sip:15888@192.168.1.105>;tag=!QE7qS>8c0._WD<y
+To: <sip:15999@192.168.1.105>
+P-Preferred-Identity: <sip:15888@192.168.1.105>
+Contact: <sip:15888@172.17.100.15:45885>;+sip.instance="<urn:uuid:467c4c72-c16f-1035-a16c-1f84f38bd1d6>";reg-id=4;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Accept-Contact: *;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Conversation-ID: 8a1fd86a-c177-1035-967a-09f5f0807220
+Contribution-ID: 8a1fdb84-c177-1035-9b49-d5ed655fa3c6
+CSeq: 1 MESSAGE
+Max-Forwards: 69
+User-Agent: www.rcsrunner.com
+Call-ID: D.MNaP%SA<{C(}JI@www.rcsrunner.com
+Content-Type: message/cpim
+Content-Length: 314
+
+To: <sip:anonymous@anonymous.invalid>
+NS: imdn<urn:ietf:params:imdn>
+imdn.Message-ID: 8a1fb4a7-c177-1035-999a-497fcb2ca918
+Date: Tue, 12 Dec 2017 22:37:31 GMT
+
+Content-Transfer-Encoding: base64
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 8
+
+QVNEU0FE-----End-of-message-----
+
+1513089451800: 22:37:31.800 Tue 12 Dec 2017, 192.168.1.105:57421/udp (1083 bytes) sent
+MESSAGE sip:15999@172.17.100.15:47354;transport=udp SIP/2.0
+Via: SIP/2.0/UDP 172.17.100.15:45885;branch=z9hG4bKHcVeFUL*E421yjqhsIImxB0t5K
+From: <sip:15888@192.168.1.105>;tag=T0[oLv.!3%NEyfj7
+To: <sip:15999@192.168.1.105>
+P-Preferred-Identity: <sip:15888@192.168.1.105>
+Contact: <sip:15888@172.17.100.15:45885>;+sip.instance="<urn:uuid:467c4c72-c16f-1035-a16c-1f84f38bd1d6>";reg-id=4;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Accept-Contact: *;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Conversation-ID: 8a1fd86a-c177-1035-967a-09f5f0807220
+Contribution-ID: 8a1fdb84-c177-1035-9b49-d5ed655fa3c6
+CSeq: 1 MESSAGE
+Max-Forwards: 69
+User-Agent: www.rcsrunner.com
+Call-ID: QP[p+NsXSq~7Bmvx@www.rcsrunner.com
+Content-Type: message/cpim
+Content-Length: 314
+
+To: <sip:anonymous@anonymous.invalid>
+NS: imdn<urn:ietf:params:imdn>
+imdn.Message-ID: 8a1fb4a7-c177-1035-999a-497fcb2ca918
+Date: Tue, 12 Dec 2017 22:37:31 GMT
+
+Content-Transfer-Encoding: base64
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 8
+
+QVNEU0FE-----End-of-message-----
+
+1513089451804: 22:37:31.804 Tue 12 Dec 2017, 172.17.100.15:49204/udp (1083 bytes) sent
+MESSAGE sip:15999@172.17.100.15:49204;transport=udp SIP/2.0
+Via: SIP/2.0/UDP 172.17.100.15:45885;branch=z9hG4bKHcVeFUL*E421yjqhsIImxB0t5K
+From: <sip:15888@192.168.1.105>;tag=WE-K2TsHDX3(m]Q{
+To: <sip:15999@192.168.1.105>
+P-Preferred-Identity: <sip:15888@192.168.1.105>
+Contact: <sip:15888@172.17.100.15:45885>;+sip.instance="<urn:uuid:467c4c72-c16f-1035-a16c-1f84f38bd1d6>";reg-id=4;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Accept-Contact: *;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Conversation-ID: 8a1fd86a-c177-1035-967a-09f5f0807220
+Contribution-ID: 8a1fdb84-c177-1035-9b49-d5ed655fa3c6
+CSeq: 1 MESSAGE
+Max-Forwards: 69
+User-Agent: www.rcsrunner.com
+Call-ID: rNl<Wm_nLH7)C(Kh@www.rcsrunner.com
+Content-Type: message/cpim
+Content-Length: 314
+
+To: <sip:anonymous@anonymous.invalid>
+NS: imdn<urn:ietf:params:imdn>
+imdn.Message-ID: 8a1fb4a7-c177-1035-999a-497fcb2ca918
+Date: Tue, 12 Dec 2017 22:37:31 GMT
+
+Content-Transfer-Encoding: base64
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 8
+
+QVNEU0FE-----End-of-message-----
+
+1513089451807: 22:37:31.807 Tue 12 Dec 2017, 192.168.1.105:57421/udp (1083 bytes) sent
+MESSAGE sip:15999@172.17.100.15:47354;transport=udp SIP/2.0
+Via: SIP/2.0/UDP 172.17.100.15:45885;branch=z9hG4bKHcVeFUL*E421yjqhsIImxB0t5K
+From: <sip:15888@192.168.1.105>;tag=T_[UFxZ)7R1jQr*]
+To: <sip:15999@192.168.1.105>
+P-Preferred-Identity: <sip:15888@192.168.1.105>
+Contact: <sip:15888@172.17.100.15:45885>;+sip.instance="<urn:uuid:467c4c72-c16f-1035-a16c-1f84f38bd1d6>";reg-id=4;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Accept-Contact: *;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Conversation-ID: 8a1fd86a-c177-1035-967a-09f5f0807220
+Contribution-ID: 8a1fdb84-c177-1035-9b49-d5ed655fa3c6
+CSeq: 1 MESSAGE
+Max-Forwards: 69
+User-Agent: www.rcsrunner.com
+Call-ID: 0PbecrIFxB*H%v_V@www.rcsrunner.com
+Content-Type: message/cpim
+Content-Length: 314
+
+To: <sip:anonymous@anonymous.invalid>
+NS: imdn<urn:ietf:params:imdn>
+imdn.Message-ID: 8a1fb4a7-c177-1035-999a-497fcb2ca918
+Date: Tue, 12 Dec 2017 22:37:31 GMT
+
+Content-Transfer-Encoding: base64
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 8
+
+QVNEU0FE-----End-of-message-----
+
+1513089451833: 22:37:31.832 Tue 12 Dec 2017, 172.17.100.15:49204/udp (1083 bytes) sent
+MESSAGE sip:15999@172.17.100.15:49204;transport=udp SIP/2.0
+Via: SIP/2.0/UDP 172.17.100.15:45885;branch=z9hG4bKHcVeFUL*E421yjqhsIImxB0t5K
+From: <sip:15888@192.168.1.105>;tag=rCe6T<Dumg~nMxsy
+To: <sip:15999@192.168.1.105>
+P-Preferred-Identity: <sip:15888@192.168.1.105>
+Contact: <sip:15888@172.17.100.15:45885>;+sip.instance="<urn:uuid:467c4c72-c16f-1035-a16c-1f84f38bd1d6>";reg-id=4;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Accept-Contact: *;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Conversation-ID: 8a1fd86a-c177-1035-967a-09f5f0807220
+Contribution-ID: 8a1fdb84-c177-1035-9b49-d5ed655fa3c6
+CSeq: 1 MESSAGE
+Max-Forwards: 69
+User-Agent: www.rcsrunner.com
+Call-ID: 76%R5-uBqUl8n0fS@www.rcsrunner.com
+Content-Type: message/cpim
+Content-Length: 314
+
+To: <sip:anonymous@anonymous.invalid>
+NS: imdn<urn:ietf:params:imdn>
+imdn.Message-ID: 8a1fb4a7-c177-1035-999a-497fcb2ca918
+Date: Tue, 12 Dec 2017 22:37:31 GMT
+
+Content-Transfer-Encoding: base64
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 8
+
+QVNEU0FE-----End-of-message-----
+
+1513089451836: 22:37:31.835 Tue 12 Dec 2017, 192.168.1.105:57421/udp (1083 bytes) sent
+MESSAGE sip:15999@172.17.100.15:47354;transport=udp SIP/2.0
+Via: SIP/2.0/UDP 172.17.100.15:45885;branch=z9hG4bKHcVeFUL*E421yjqhsIImxB0t5K
+From: <sip:15888@192.168.1.105>;tag=vgbM5dFe!hl1qN49
+To: <sip:15999@192.168.1.105>
+P-Preferred-Identity: <sip:15888@192.168.1.105>
+Contact: <sip:15888@172.17.100.15:45885>;+sip.instance="<urn:uuid:467c4c72-c16f-1035-a16c-1f84f38bd1d6>";reg-id=4;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Accept-Contact: *;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Conversation-ID: 8a1fd86a-c177-1035-967a-09f5f0807220
+Contribution-ID: 8a1fdb84-c177-1035-9b49-d5ed655fa3c6
+CSeq: 1 MESSAGE
+Max-Forwards: 69
+User-Agent: www.rcsrunner.com
+Call-ID: HL}qazX-sEv31dNR@www.rcsrunner.com
+Content-Type: message/cpim
+Content-Length: 314
+
+To: <sip:anonymous@anonymous.invalid>
+NS: imdn<urn:ietf:params:imdn>
+imdn.Message-ID: 8a1fb4a7-c177-1035-999a-497fcb2ca918
+Date: Tue, 12 Dec 2017 22:37:31 GMT
+
+Content-Transfer-Encoding: base64
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 8
+
+QVNEU0FE-----End-of-message-----
+
+1513089451845: 22:37:31.845 Tue 12 Dec 2017, 172.17.100.15:49204/udp (1083 bytes) sent
+MESSAGE sip:15999@172.17.100.15:49204;transport=udp SIP/2.0
+Via: SIP/2.0/UDP 172.17.100.15:45885;branch=z9hG4bKHcVeFUL*E421yjqhsIImxB0t5K
+From: <sip:15888@192.168.1.105>;tag=krc3H<tgfJaA]mE%
+To: <sip:15999@192.168.1.105>
+P-Preferred-Identity: <sip:15888@192.168.1.105>
+Contact: <sip:15888@172.17.100.15:45885>;+sip.instance="<urn:uuid:467c4c72-c16f-1035-a16c-1f84f38bd1d6>";reg-id=4;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Accept-Contact: *;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Conversation-ID: 8a1fd86a-c177-1035-967a-09f5f0807220
+Contribution-ID: 8a1fdb84-c177-1035-9b49-d5ed655fa3c6
+CSeq: 1 MESSAGE
+Max-Forwards: 69
+User-Agent: www.rcsrunner.com
+Call-ID: H>R*+bMJ9dI<Sik-@www.rcsrunner.com
+Content-Type: message/cpim
+Content-Length: 314
+
+To: <sip:anonymous@anonymous.invalid>
+NS: imdn<urn:ietf:params:imdn>
+imdn.Message-ID: 8a1fb4a7-c177-1035-999a-497fcb2ca918
+Date: Tue, 12 Dec 2017 22:37:31 GMT
+
+Content-Transfer-Encoding: base64
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 8
+
+QVNEU0FE-----End-of-message-----
+
+1513089451848: 22:37:31.848 Tue 12 Dec 2017, 192.168.1.105:57421/udp (1083 bytes) sent
+MESSAGE sip:15999@172.17.100.15:47354;transport=udp SIP/2.0
+Via: SIP/2.0/UDP 172.17.100.15:45885;branch=z9hG4bKHcVeFUL*E421yjqhsIImxB0t5K
+From: <sip:15888@192.168.1.105>;tag=]b}MVp{3d<18F2[9
+To: <sip:15999@192.168.1.105>
+P-Preferred-Identity: <sip:15888@192.168.1.105>
+Contact: <sip:15888@172.17.100.15:45885>;+sip.instance="<urn:uuid:467c4c72-c16f-1035-a16c-1f84f38bd1d6>";reg-id=4;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Accept-Contact: *;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Conversation-ID: 8a1fd86a-c177-1035-967a-09f5f0807220
+Contribution-ID: 8a1fdb84-c177-1035-9b49-d5ed655fa3c6
+CSeq: 1 MESSAGE
+Max-Forwards: 69
+User-Agent: www.rcsrunner.com
+Call-ID: OZR-~Nk+Bjz>)<XA@www.rcsrunner.com
+Content-Type: message/cpim
+Content-Length: 314
+
+To: <sip:anonymous@anonymous.invalid>
+NS: imdn<urn:ietf:params:imdn>
+imdn.Message-ID: 8a1fb4a7-c177-1035-999a-497fcb2ca918
+Date: Tue, 12 Dec 2017 22:37:31 GMT
+
+Content-Transfer-Encoding: base64
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 8
+
+QVNEU0FE-----End-of-message-----
+
+1513089451858: 22:37:31.858 Tue 12 Dec 2017, 172.17.100.15:49204/udp (1083 bytes) sent
+MESSAGE sip:15999@172.17.100.15:49204;transport=udp SIP/2.0
+Via: SIP/2.0/UDP 172.17.100.15:45885;branch=z9hG4bKHcVeFUL*E421yjqhsIImxB0t5K
+From: <sip:15888@192.168.1.105>;tag=f3nG1p0BTOg(JS5x
+To: <sip:15999@192.168.1.105>
+P-Preferred-Identity: <sip:15888@192.168.1.105>
+Contact: <sip:15888@172.17.100.15:45885>;+sip.instance="<urn:uuid:467c4c72-c16f-1035-a16c-1f84f38bd1d6>";reg-id=4;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Accept-Contact: *;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Conversation-ID: 8a1fd86a-c177-1035-967a-09f5f0807220
+Contribution-ID: 8a1fdb84-c177-1035-9b49-d5ed655fa3c6
+CSeq: 1 MESSAGE
+Max-Forwards: 69
+User-Agent: www.rcsrunner.com
+Call-ID: dS4.eg{UQ6aJ_s8u@www.rcsrunner.com
+Content-Type: message/cpim
+Content-Length: 314
+
+To: <sip:anonymous@anonymous.invalid>
+NS: imdn<urn:ietf:params:imdn>
+imdn.Message-ID: 8a1fb4a7-c177-1035-999a-497fcb2ca918
+Date: Tue, 12 Dec 2017 22:37:31 GMT
+
+Content-Transfer-Encoding: base64
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 8
+
+QVNEU0FE-----End-of-message-----
+
+1513089451862: 22:37:31.862 Tue 12 Dec 2017, 192.168.1.105:57421/udp (1083 bytes) sent
+MESSAGE sip:15999@172.17.100.15:47354;transport=udp SIP/2.0
+Via: SIP/2.0/UDP 172.17.100.15:45885;branch=z9hG4bKHcVeFUL*E421yjqhsIImxB0t5K
+From: <sip:15888@192.168.1.105>;tag=Jj<]I2T6bsC%LUFY
+To: <sip:15999@192.168.1.105>
+P-Preferred-Identity: <sip:15888@192.168.1.105>
+Contact: <sip:15888@172.17.100.15:45885>;+sip.instance="<urn:uuid:467c4c72-c16f-1035-a16c-1f84f38bd1d6>";reg-id=4;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Accept-Contact: *;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Conversation-ID: 8a1fd86a-c177-1035-967a-09f5f0807220
+Contribution-ID: 8a1fdb84-c177-1035-9b49-d5ed655fa3c6
+CSeq: 1 MESSAGE
+Max-Forwards: 69
+User-Agent: www.rcsrunner.com
+Call-ID: 0dRe)FUv<_JB}OEh@www.rcsrunner.com
+Content-Type: message/cpim
+Content-Length: 314
+
+To: <sip:anonymous@anonymous.invalid>
+NS: imdn<urn:ietf:params:imdn>
+imdn.Message-ID: 8a1fb4a7-c177-1035-999a-497fcb2ca918
+Date: Tue, 12 Dec 2017 22:37:31 GMT
+
+Content-Transfer-Encoding: base64
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 8
+
+QVNEU0FE-----End-of-message-----
+
+1513089451874: 22:37:31.873 Tue 12 Dec 2017, 172.17.100.15:49204/udp (1083 bytes) sent
+MESSAGE sip:15999@172.17.100.15:49204;transport=udp SIP/2.0
+Via: SIP/2.0/UDP 172.17.100.15:45885;branch=z9hG4bKHcVeFUL*E421yjqhsIImxB0t5K
+From: <sip:15888@192.168.1.105>;tag=-Kd~_ZmCskcDjh3y
+To: <sip:15999@192.168.1.105>
+P-Preferred-Identity: <sip:15888@192.168.1.105>
+Contact: <sip:15888@172.17.100.15:45885>;+sip.instance="<urn:uuid:467c4c72-c16f-1035-a16c-1f84f38bd1d6>";reg-id=4;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Accept-Contact: *;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Conversation-ID: 8a1fd86a-c177-1035-967a-09f5f0807220
+Contribution-ID: 8a1fdb84-c177-1035-9b49-d5ed655fa3c6
+CSeq: 1 MESSAGE
+Max-Forwards: 69
+User-Agent: www.rcsrunner.com
+Call-ID: Zf83Kuawb65Q({lp@www.rcsrunner.com
+Content-Type: message/cpim
+Content-Length: 314
+
+To: <sip:anonymous@anonymous.invalid>
+NS: imdn<urn:ietf:params:imdn>
+imdn.Message-ID: 8a1fb4a7-c177-1035-999a-497fcb2ca918
+Date: Tue, 12 Dec 2017 22:37:31 GMT
+
+Content-Transfer-Encoding: base64
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 8
+
+QVNEU0FE-----End-of-message-----
+
+1513089451878: 22:37:31.878 Tue 12 Dec 2017, 192.168.1.105:57421/udp (1083 bytes) sent
+MESSAGE sip:15999@172.17.100.15:47354;transport=udp SIP/2.0
+Via: SIP/2.0/UDP 172.17.100.15:45885;branch=z9hG4bKHcVeFUL*E421yjqhsIImxB0t5K
+From: <sip:15888@192.168.1.105>;tag=DzlFE48unIJt6X{V
+To: <sip:15999@192.168.1.105>
+P-Preferred-Identity: <sip:15888@192.168.1.105>
+Contact: <sip:15888@172.17.100.15:45885>;+sip.instance="<urn:uuid:467c4c72-c16f-1035-a16c-1f84f38bd1d6>";reg-id=4;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Accept-Contact: *;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Conversation-ID: 8a1fd86a-c177-1035-967a-09f5f0807220
+Contribution-ID: 8a1fdb84-c177-1035-9b49-d5ed655fa3c6
+CSeq: 1 MESSAGE
+Max-Forwards: 69
+User-Agent: www.rcsrunner.com
+Call-ID: 7o)yqNUWc8t>IhXs@www.rcsrunner.com
+Content-Type: message/cpim
+Content-Length: 314
+
+To: <sip:anonymous@anonymous.invalid>
+NS: imdn<urn:ietf:params:imdn>
+imdn.Message-ID: 8a1fb4a7-c177-1035-999a-497fcb2ca918
+Date: Tue, 12 Dec 2017 22:37:31 GMT
+
+Content-Transfer-Encoding: base64
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 8
+
+QVNEU0FE-----End-of-message-----
+
+1513089451889: 22:37:31.888 Tue 12 Dec 2017, 172.17.100.15:49204/udp (1083 bytes) sent
+MESSAGE sip:15999@172.17.100.15:49204;transport=udp SIP/2.0
+Via: SIP/2.0/UDP 172.17.100.15:45885;branch=z9hG4bKHcVeFUL*E421yjqhsIImxB0t5K
+From: <sip:15888@192.168.1.105>;tag=P+<O[Cs>K(S.vYZb
+To: <sip:15999@192.168.1.105>
+P-Preferred-Identity: <sip:15888@192.168.1.105>
+Contact: <sip:15888@172.17.100.15:45885>;+sip.instance="<urn:uuid:467c4c72-c16f-1035-a16c-1f84f38bd1d6>";reg-id=4;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Accept-Contact: *;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Conversation-ID: 8a1fd86a-c177-1035-967a-09f5f0807220
+Contribution-ID: 8a1fdb84-c177-1035-9b49-d5ed655fa3c6
+CSeq: 1 MESSAGE
+Max-Forwards: 69
+User-Agent: www.rcsrunner.com
+Call-ID: wS*FAu!0E]pP~CTY@www.rcsrunner.com
+Content-Type: message/cpim
+Content-Length: 314
+
+To: <sip:anonymous@anonymous.invalid>
+NS: imdn<urn:ietf:params:imdn>
+imdn.Message-ID: 8a1fb4a7-c177-1035-999a-497fcb2ca918
+Date: Tue, 12 Dec 2017 22:37:31 GMT
+
+Content-Transfer-Encoding: base64
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 8
+
+QVNEU0FE-----End-of-message-----
+
+1513089451892: 22:37:31.892 Tue 12 Dec 2017, 192.168.1.105:57421/udp (1083 bytes) sent
+MESSAGE sip:15999@172.17.100.15:47354;transport=udp SIP/2.0
+Via: SIP/2.0/UDP 172.17.100.15:45885;branch=z9hG4bKHcVeFUL*E421yjqhsIImxB0t5K
+From: <sip:15888@192.168.1.105>;tag=aCNUIeS!bH9V>6FB
+To: <sip:15999@192.168.1.105>
+P-Preferred-Identity: <sip:15888@192.168.1.105>
+Contact: <sip:15888@172.17.100.15:45885>;+sip.instance="<urn:uuid:467c4c72-c16f-1035-a16c-1f84f38bd1d6>";reg-id=4;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Accept-Contact: *;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Conversation-ID: 8a1fd86a-c177-1035-967a-09f5f0807220
+Contribution-ID: 8a1fdb84-c177-1035-9b49-d5ed655fa3c6
+CSeq: 1 MESSAGE
+Max-Forwards: 69
+User-Agent: www.rcsrunner.com
+Call-ID: +png]FU({)[0dk4l@www.rcsrunner.com
+Content-Type: message/cpim
+Content-Length: 314
+
+To: <sip:anonymous@anonymous.invalid>
+NS: imdn<urn:ietf:params:imdn>
+imdn.Message-ID: 8a1fb4a7-c177-1035-999a-497fcb2ca918
+Date: Tue, 12 Dec 2017 22:37:31 GMT
+
+Content-Transfer-Encoding: base64
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 8
+
+QVNEU0FE-----End-of-message-----
+
+1513089451902: 22:37:31.902 Tue 12 Dec 2017, 172.17.100.15:49204/udp (1083 bytes) sent
+MESSAGE sip:15999@172.17.100.15:49204;transport=udp SIP/2.0
+Via: SIP/2.0/UDP 172.17.100.15:45885;branch=z9hG4bKHcVeFUL*E421yjqhsIImxB0t5K
+From: <sip:15888@192.168.1.105>;tag=%x517pdSXuZ~l-.+
+To: <sip:15999@192.168.1.105>
+P-Preferred-Identity: <sip:15888@192.168.1.105>
+Contact: <sip:15888@172.17.100.15:45885>;+sip.instance="<urn:uuid:467c4c72-c16f-1035-a16c-1f84f38bd1d6>";reg-id=4;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Accept-Contact: *;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Conversation-ID: 8a1fd86a-c177-1035-967a-09f5f0807220
+Contribution-ID: 8a1fdb84-c177-1035-9b49-d5ed655fa3c6
+CSeq: 1 MESSAGE
+Max-Forwards: 69
+User-Agent: www.rcsrunner.com
+Call-ID: Ks)!~3BG5Zyx-}ic@www.rcsrunner.com
+Content-Type: message/cpim
+Content-Length: 314
+
+To: <sip:anonymous@anonymous.invalid>
+NS: imdn<urn:ietf:params:imdn>
+imdn.Message-ID: 8a1fb4a7-c177-1035-999a-497fcb2ca918
+Date: Tue, 12 Dec 2017 22:37:31 GMT
+
+Content-Transfer-Encoding: base64
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 8
+
+QVNEU0FE-----End-of-message-----
+
+1513089451905: 22:37:31.904 Tue 12 Dec 2017, 192.168.1.105:57421/udp (1083 bytes) sent
+MESSAGE sip:15999@172.17.100.15:47354;transport=udp SIP/2.0
+Via: SIP/2.0/UDP 172.17.100.15:45885;branch=z9hG4bKHcVeFUL*E421yjqhsIImxB0t5K
+From: <sip:15888@192.168.1.105>;tag=P~L2-7C9aw%k)zVp
+To: <sip:15999@192.168.1.105>
+P-Preferred-Identity: <sip:15888@192.168.1.105>
+Contact: <sip:15888@172.17.100.15:45885>;+sip.instance="<urn:uuid:467c4c72-c16f-1035-a16c-1f84f38bd1d6>";reg-id=4;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Accept-Contact: *;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Conversation-ID: 8a1fd86a-c177-1035-967a-09f5f0807220
+Contribution-ID: 8a1fdb84-c177-1035-9b49-d5ed655fa3c6
+CSeq: 1 MESSAGE
+Max-Forwards: 69
+User-Agent: www.rcsrunner.com
+Call-ID: Xb~{>O(yxpfARhPV@www.rcsrunner.com
+Content-Type: message/cpim
+Content-Length: 314
+
+To: <sip:anonymous@anonymous.invalid>
+NS: imdn<urn:ietf:params:imdn>
+imdn.Message-ID: 8a1fb4a7-c177-1035-999a-497fcb2ca918
+Date: Tue, 12 Dec 2017 22:37:31 GMT
+
+Content-Transfer-Encoding: base64
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 8
+
+QVNEU0FE-----End-of-message-----
+
+1513089451916: 22:37:31.915 Tue 12 Dec 2017, 172.17.100.15:49204/udp (1083 bytes) sent
+MESSAGE sip:15999@172.17.100.15:49204;transport=udp SIP/2.0
+Via: SIP/2.0/UDP 172.17.100.15:45885;branch=z9hG4bKHcVeFUL*E421yjqhsIImxB0t5K
+From: <sip:15888@192.168.1.105>;tag=*H>+moWSYP4cjgz]
+To: <sip:15999@192.168.1.105>
+P-Preferred-Identity: <sip:15888@192.168.1.105>
+Contact: <sip:15888@172.17.100.15:45885>;+sip.instance="<urn:uuid:467c4c72-c16f-1035-a16c-1f84f38bd1d6>";reg-id=4;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Accept-Contact: *;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Conversation-ID: 8a1fd86a-c177-1035-967a-09f5f0807220
+Contribution-ID: 8a1fdb84-c177-1035-9b49-d5ed655fa3c6
+CSeq: 1 MESSAGE
+Max-Forwards: 69
+User-Agent: www.rcsrunner.com
+Call-ID: hCpAY]fNQ!onw(M-@www.rcsrunner.com
+Content-Type: message/cpim
+Content-Length: 314
+
+To: <sip:anonymous@anonymous.invalid>
+NS: imdn<urn:ietf:params:imdn>
+imdn.Message-ID: 8a1fb4a7-c177-1035-999a-497fcb2ca918
+Date: Tue, 12 Dec 2017 22:37:31 GMT
+
+Content-Transfer-Encoding: base64
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 8
+
+QVNEU0FE-----End-of-message-----
+
+1513089451919: 22:37:31.918 Tue 12 Dec 2017, 192.168.1.105:57421/udp (1083 bytes) sent
+MESSAGE sip:15999@172.17.100.15:47354;transport=udp SIP/2.0
+Via: SIP/2.0/UDP 172.17.100.15:45885;branch=z9hG4bKHcVeFUL*E421yjqhsIImxB0t5K
+From: <sip:15888@192.168.1.105>;tag=Fto_RIST>)MN!Cdz
+To: <sip:15999@192.168.1.105>
+P-Preferred-Identity: <sip:15888@192.168.1.105>
+Contact: <sip:15888@172.17.100.15:45885>;+sip.instance="<urn:uuid:467c4c72-c16f-1035-a16c-1f84f38bd1d6>";reg-id=4;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Accept-Contact: *;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Conversation-ID: 8a1fd86a-c177-1035-967a-09f5f0807220
+Contribution-ID: 8a1fdb84-c177-1035-9b49-d5ed655fa3c6
+CSeq: 1 MESSAGE
+Max-Forwards: 69
+User-Agent: www.rcsrunner.com
+Call-ID: MI2Q<j6ezT1os*-x@www.rcsrunner.com
+Content-Type: message/cpim
+Content-Length: 314
+
+To: <sip:anonymous@anonymous.invalid>
+NS: imdn<urn:ietf:params:imdn>
+imdn.Message-ID: 8a1fb4a7-c177-1035-999a-497fcb2ca918
+Date: Tue, 12 Dec 2017 22:37:31 GMT
+
+Content-Transfer-Encoding: base64
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 8
+
+QVNEU0FE-----End-of-message-----
+
+1513089451929: 22:37:31.928 Tue 12 Dec 2017, 172.17.100.15:49204/udp (1083 bytes) sent
+MESSAGE sip:15999@172.17.100.15:49204;transport=udp SIP/2.0
+Via: SIP/2.0/UDP 172.17.100.15:45885;branch=z9hG4bKHcVeFUL*E421yjqhsIImxB0t5K
+From: <sip:15888@192.168.1.105>;tag={Vi%OP3w6<nmu}Ib
+To: <sip:15999@192.168.1.105>
+P-Preferred-Identity: <sip:15888@192.168.1.105>
+Contact: <sip:15888@172.17.100.15:45885>;+sip.instance="<urn:uuid:467c4c72-c16f-1035-a16c-1f84f38bd1d6>";reg-id=4;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Accept-Contact: *;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Conversation-ID: 8a1fd86a-c177-1035-967a-09f5f0807220
+Contribution-ID: 8a1fdb84-c177-1035-9b49-d5ed655fa3c6
+CSeq: 1 MESSAGE
+Max-Forwards: 69
+User-Agent: www.rcsrunner.com
+Call-ID: qaPZOYy[vsKeAw6c@www.rcsrunner.com
+Content-Type: message/cpim
+Content-Length: 314
+
+To: <sip:anonymous@anonymous.invalid>
+NS: imdn<urn:ietf:params:imdn>
+imdn.Message-ID: 8a1fb4a7-c177-1035-999a-497fcb2ca918
+Date: Tue, 12 Dec 2017 22:37:31 GMT
+
+Content-Transfer-Encoding: base64
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 8
+
+QVNEU0FE-----End-of-message-----
+
+1513089451933: 22:37:31.933 Tue 12 Dec 2017, 192.168.1.105:57421/udp (1083 bytes) sent
+MESSAGE sip:15999@172.17.100.15:47354;transport=udp SIP/2.0
+Via: SIP/2.0/UDP 172.17.100.15:45885;branch=z9hG4bKHcVeFUL*E421yjqhsIImxB0t5K
+From: <sip:15888@192.168.1.105>;tag=gvLD_{NA%G>Z!1ai
+To: <sip:15999@192.168.1.105>
+P-Preferred-Identity: <sip:15888@192.168.1.105>
+Contact: <sip:15888@172.17.100.15:45885>;+sip.instance="<urn:uuid:467c4c72-c16f-1035-a16c-1f84f38bd1d6>";reg-id=4;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Accept-Contact: *;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Conversation-ID: 8a1fd86a-c177-1035-967a-09f5f0807220
+Contribution-ID: 8a1fdb84-c177-1035-9b49-d5ed655fa3c6
+CSeq: 1 MESSAGE
+Max-Forwards: 69
+User-Agent: www.rcsrunner.com
+Call-ID: [XE7!qQpfb(t)kWL@www.rcsrunner.com
+Content-Type: message/cpim
+Content-Length: 314
+
+To: <sip:anonymous@anonymous.invalid>
+NS: imdn<urn:ietf:params:imdn>
+imdn.Message-ID: 8a1fb4a7-c177-1035-999a-497fcb2ca918
+Date: Tue, 12 Dec 2017 22:37:31 GMT
+
+Content-Transfer-Encoding: base64
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 8
+
+QVNEU0FE-----End-of-message-----
+
+1513089451943: 22:37:31.942 Tue 12 Dec 2017, 172.17.100.15:49204/udp (1083 bytes) sent
+MESSAGE sip:15999@172.17.100.15:49204;transport=udp SIP/2.0
+Via: SIP/2.0/UDP 172.17.100.15:45885;branch=z9hG4bKHcVeFUL*E421yjqhsIImxB0t5K
+From: <sip:15888@192.168.1.105>;tag=RcFdrHYM+bDIOhjU
+To: <sip:15999@192.168.1.105>
+P-Preferred-Identity: <sip:15888@192.168.1.105>
+Contact: <sip:15888@172.17.100.15:45885>;+sip.instance="<urn:uuid:467c4c72-c16f-1035-a16c-1f84f38bd1d6>";reg-id=4;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Accept-Contact: *;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Conversation-ID: 8a1fd86a-c177-1035-967a-09f5f0807220
+Contribution-ID: 8a1fdb84-c177-1035-9b49-d5ed655fa3c6
+CSeq: 1 MESSAGE
+Max-Forwards: 69
+User-Agent: www.rcsrunner.com
+Call-ID: dJp1KcH!9*%t<sC~@www.rcsrunner.com
+Content-Type: message/cpim
+Content-Length: 314
+
+To: <sip:anonymous@anonymous.invalid>
+NS: imdn<urn:ietf:params:imdn>
+imdn.Message-ID: 8a1fb4a7-c177-1035-999a-497fcb2ca918
+Date: Tue, 12 Dec 2017 22:37:31 GMT
+
+Content-Transfer-Encoding: base64
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 8
+
+QVNEU0FE-----End-of-message-----
+
+1513089451945: 22:37:31.945 Tue 12 Dec 2017, 192.168.1.105:57421/udp (1083 bytes) sent
+MESSAGE sip:15999@172.17.100.15:47354;transport=udp SIP/2.0
+Via: SIP/2.0/UDP 172.17.100.15:45885;branch=z9hG4bKHcVeFUL*E421yjqhsIImxB0t5K
+From: <sip:15888@192.168.1.105>;tag=-.tlYmhJ<RAWid5b
+To: <sip:15999@192.168.1.105>
+P-Preferred-Identity: <sip:15888@192.168.1.105>
+Contact: <sip:15888@172.17.100.15:45885>;+sip.instance="<urn:uuid:467c4c72-c16f-1035-a16c-1f84f38bd1d6>";reg-id=4;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Accept-Contact: *;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Conversation-ID: 8a1fd86a-c177-1035-967a-09f5f0807220
+Contribution-ID: 8a1fdb84-c177-1035-9b49-d5ed655fa3c6
+CSeq: 1 MESSAGE
+Max-Forwards: 69
+User-Agent: www.rcsrunner.com
+Call-ID: v}%wjzo3rS_9uX+k@www.rcsrunner.com
+Content-Type: message/cpim
+Content-Length: 314
+
+To: <sip:anonymous@anonymous.invalid>
+NS: imdn<urn:ietf:params:imdn>
+imdn.Message-ID: 8a1fb4a7-c177-1035-999a-497fcb2ca918
+Date: Tue, 12 Dec 2017 22:37:31 GMT
+
+Content-Transfer-Encoding: base64
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 8
+
+QVNEU0FE-----End-of-message-----
+
+1513089451955: 22:37:31.955 Tue 12 Dec 2017, 172.17.100.15:49204/udp (1083 bytes) sent
+MESSAGE sip:15999@172.17.100.15:49204;transport=udp SIP/2.0
+Via: SIP/2.0/UDP 172.17.100.15:45885;branch=z9hG4bKHcVeFUL*E421yjqhsIImxB0t5K
+From: <sip:15888@192.168.1.105>;tag=qHfApx+wzu>rO({d
+To: <sip:15999@192.168.1.105>
+P-Preferred-Identity: <sip:15888@192.168.1.105>
+Contact: <sip:15888@172.17.100.15:45885>;+sip.instance="<urn:uuid:467c4c72-c16f-1035-a16c-1f84f38bd1d6>";reg-id=4;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Accept-Contact: *;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Conversation-ID: 8a1fd86a-c177-1035-967a-09f5f0807220
+Contribution-ID: 8a1fdb84-c177-1035-9b49-d5ed655fa3c6
+CSeq: 1 MESSAGE
+Max-Forwards: 69
+User-Agent: www.rcsrunner.com
+Call-ID: p*>zCO!{%DR8q}<T@www.rcsrunner.com
+Content-Type: message/cpim
+Content-Length: 314
+
+To: <sip:anonymous@anonymous.invalid>
+NS: imdn<urn:ietf:params:imdn>
+imdn.Message-ID: 8a1fb4a7-c177-1035-999a-497fcb2ca918
+Date: Tue, 12 Dec 2017 22:37:31 GMT
+
+Content-Transfer-Encoding: base64
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 8
+
+QVNEU0FE-----End-of-message-----
+
+1513089451958: 22:37:31.958 Tue 12 Dec 2017, 192.168.1.105:57421/udp (1083 bytes) sent
+MESSAGE sip:15999@172.17.100.15:47354;transport=udp SIP/2.0
+Via: SIP/2.0/UDP 172.17.100.15:45885;branch=z9hG4bKHcVeFUL*E421yjqhsIImxB0t5K
+From: <sip:15888@192.168.1.105>;tag=R}5YmJcfj0-utAGg
+To: <sip:15999@192.168.1.105>
+P-Preferred-Identity: <sip:15888@192.168.1.105>
+Contact: <sip:15888@172.17.100.15:45885>;+sip.instance="<urn:uuid:467c4c72-c16f-1035-a16c-1f84f38bd1d6>";reg-id=4;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Accept-Contact: *;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.oma.cpm.msg"
+Conversation-ID: 8a1fd86a-c177-1035-967a-09f5f0807220
+Contribution-ID: 8a1fdb84-c177-1035-9b49-d5ed655fa3c6
+CSeq: 1 MESSAGE
+Max-Forwards: 69
+User-Agent: www.rcsrunner.com
+Call-ID: TLm<l*YXxDsZ.1>0@www.rcsrunner.com
+Content-Type: message/cpim
+Content-Length: 314
+
+To: <sip:anonymous@anonymous.invalid>
+NS: imdn<urn:ietf:params:imdn>
+imdn.Message-ID: 8a1fb4a7-c177-1035-999a-497fcb2ca918
+Date: Tue, 12 Dec 2017 22:37:31 GMT
+
+Content-Transfer-Encoding: base64
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 8
+
+QVNEU0FE-----End-of-message-----
+
